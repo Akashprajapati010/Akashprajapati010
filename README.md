@@ -1,12 +1,10 @@
 # 💫 Hi 👋, I'm Akash Prajapati
-**A Student of Computer Science engineering at Sagar Institute of Science & Technology || C++|| Java || Python || Web Development** <br/>
+**Computer Science engineering || C++ || Python || Web Development** <br/>
 Driven by a strong commitment to leveraging technology to enhance efficiency, optimize 
 processes, and contribute to organizational growth. Seeking an opportunity to apply my technical 
 knowledge, adaptability, and teamwork skills to drive innovation and support the company’s long
 term success.
 
-- 🔭 **I’m currently working on:** SIH Problem Smart Competency Diagnostic and Score Calculator for My Major Project
-- 🌱 **I’m currently learning:** Gemini AI and Cloud Computing
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-prajapati-521278256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashak5654@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://akash-prajapati-one.vercel.app/)
