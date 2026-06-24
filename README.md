@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Akash Prajapati
-**Computer Science engineering || C++ || Python || Web Development** <br/>
+**Front-End Developer | React.js | JavaScript | SEO learner | AI Editing | Open to Front-End & Management Operations Opportunities 🚀** <br/>
 Driven by a strong commitment to leveraging technology to enhance efficiency, optimize 
 processes, and contribute to organizational growth. Seeking an opportunity to apply my technical 
 knowledge, adaptability, and teamwork skills to drive innovation and support the company’s long
