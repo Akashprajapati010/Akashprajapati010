@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Akash Prajapati
+# 👋 Hi, I'm Akash Prajapati
 **Web Developer | React.js | SEO & Backend Learner | AI Editing | Open to Web Development & Content Creation Opportunities 🚀** <br/>
 Passionate about learning and building user-friendly web applications and exploring modern technologies. I enjoy learning new skills, solving real-world problems, and combining technical knowledge with creativity through AI editing and content creation. Open to opportunities where I can contribute, learn, and grow as a Web Developer and Content Creator.
 
