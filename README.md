@@ -1,10 +1,17 @@
 # 💫 Hi 👋, I'm Akash Prajapati
-**Web Developer | React.js | JavaScript | SEO & Backend Learner | AI Editing | Open to Web Development & Content Creation Opportunities 🚀** <br/>
+**Web Developer | React.js | SEO & Backend Learner | AI Editing | Open to Web Development & Content Creation Opportunities 🚀** <br/>
 Passionate about learning and building user-friendly web applications and exploring modern technologies. I enjoy learning new skills, solving real-world problems, and combining technical knowledge with creativity through AI editing and content creation. Open to opportunities where I can contribute, learn, and grow as a Web Developer and Content Creator.
 
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-prajapati-521278256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashak5654@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://akash-prajapati-one.vercel.app/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@chronodhara_by_akash?si=hIe-Ug9BLpZSG4l0)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-prajapati-521278256)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashak5654@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://akash-prajapati-one.vercel.app/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@chronodhara_by_akash)
 
 # 💻 Tech Stack:
 
@@ -54,29 +61,7 @@ Passionate about learning and building user-friendly web applications and explor
 ![DBMS](https://img.shields.io/badge/DBMS-1976D2.svg?style=for-the-badge)
 ![Computer Networking](https://img.shields.io/badge/Computer%20Networking-00897B.svg?style=for-the-badge)
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashprajapati010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashprajapati010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Akashprajapati010&theme=dark&hide_border=false" />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akashprajapati010&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
-</p>
-
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Akashprajapati010&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akashprajapati010&label=Profile%20Views&style=flat" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashprajapati010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Akashprajapati010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akashprajapati010&theme=dark&hide_border=false)<br/>
